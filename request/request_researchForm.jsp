@@ -9,7 +9,7 @@
 </head>
 <body>
 	<h2>설문조사</h2>
-	<form action="request_research.jsp" method="post">
+	<form action="request_research2.jsp" method="post">
 		<table>
 			<tr>
 				<td>name</td>
