@@ -1,3 +1,3 @@
 ## README
 
-JSP
+JSP & Servlet ( 성윤정 )
